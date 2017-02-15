@@ -1,0 +1,80 @@
+.main {
+    width: 1170px;
+    height: 2030px;
+    margin: 0 auto;
+}
+
+.main .left {
+    float: left;
+    width: 380px;
+    height: 2030;
+}
+
+.main .center {
+    float: left;
+    width: 380;
+    height: 2030;
+}
+
+.main .right {
+    float: left;
+    width: 380;
+    height: 2030;
+}
+
+.main .marginmain {
+    margin: 0 5px;
+}
+
+.left .smallsize {
+    float: left;
+    width: 380;
+    height: 150;
+    background: black;
+}
+
+.margin {
+    margin: 5px 0;
+}
+
+.left .bigsize {
+    float: left;
+    width: 380;
+    height: 250;
+    background: red;
+}
+
+.center .bigsize {
+    float: left;
+    width: 380;
+    height: 260;
+    background: red;
+}
+
+.center .smallsize {
+    float: left;
+    width: 380;
+    height: 155;
+    background: black;
+}
+
+.right .smallsize {
+    float: left;
+    width: 380;
+    height: 150;
+    background: black;
+}
+
+.right .bigsize {
+    float: left;
+    width: 380;
+    height: 265;
+    background: red;
+}
+
+.right .middlesize {
+    float: left;
+    width: 380;
+    height: 250;
+    background: green;
+}
